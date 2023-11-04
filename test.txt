@@ -1,0 +1,295 @@
+{
+  "cases": [
+    {
+      "id": 1,
+      "title": "Car Accident on Main Street",
+      "description": "Two vehicles collided at an intersection, resulting in minor injuries.",
+      "date": "2023-09-01",
+      "time": "15:00",
+      "location": "Main Street",
+      "involved_parties_count": 2,
+      "case_type": "Accident",
+      "amount": 5000,
+      "involved_parties": [
+        {
+          "name": "John Doe",
+          "role": "Driver"
+        },
+        {
+          "name": "Jane Smith",
+          "role": "Driver"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "title": "Robbery at Local Store",
+      "description": "A masked suspect took cash from a store at gunpoint.",
+      "date": "2023-10-15",
+      "time": "22:00",
+      "location": "Elm Street",
+      "involved_parties_count": 2,
+      "case_type": "Robbery",
+      "amount": 1000,
+      "involved_parties": [
+        {
+          "name": "Store Owner",
+          "role": "Victim"
+        },
+        {
+          "name": "Masked Suspect",
+          "role": "Suspect"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "title": "Lost Dog",
+      "description": "A golden retriever named Max went missing from his home.",
+      "date": "2023-11-05",
+      "time": "08:00",
+      "location": "Pine Street",
+      "involved_parties_count": 1,
+      "case_type": "Lost Pet",
+      "amount": 200,
+      "involved_parties": [
+        {
+          "name": "Smith Family",
+          "role": "Pet Owner"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "title": "Vandalism at Park",
+      "description": "Playground equipment was damaged by unknown individuals.",
+      "date": "2023-07-10",
+      "time": "20:00",
+      "location": "City Park",
+      "involved_parties_count": 1,
+      "case_type": "Vandalism",
+      "amount": 750,
+      "involved_parties": [
+        {
+          "name": "City Council",
+          "role": "Victim"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "title": "Shoplifting at Mall",
+      "description": "An individual was caught stealing clothes from a mall store.",
+      "date": "2023-08-15",
+      "time": "14:00",
+      "location": "Local Mall",
+      "involved_parties_count": 2,
+      "case_type": "Theft",
+      "amount": 300,
+      "involved_parties": [
+        {
+          "name": "Store Security",
+          "role": "Security"
+        },
+        {
+          "name": "Suspected Shoplifter",
+          "role": "Suspect"
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "title": "Bicycle Theft",
+      "description": "A teenager's bicycle was stolen from outside a library.",
+      "date": "2023-06-01",
+      "time": "16:30",
+      "location": "City Library",
+      "involved_parties_count": 1,
+      "case_type": "Theft",
+      "amount": 100,
+      "involved_parties": [
+        {
+          "name": "Teenager",
+          "role": "Victim"
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "title": "Assault on Elm Street",
+      "description": "An individual was assaulted by a group of people on Elm Street.",
+      "date": "2023-05-15",
+      "time": "23:00",
+      "location": "Elm Street",
+      "involved_parties_count": 2,
+      "case_type": "Assault",
+      "amount": 500,
+      "involved_parties": [
+        {
+          "name": "Victim",
+          "role": "Victim"
+        },
+        {
+          "name": "Group of Assailants",
+          "role": "Assailant"
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "title": "Graffiti on School Wall",
+      "description": "Graffiti was found on the wall of a local school.",
+      "date": "2023-04-20",
+      "time": "08:00",
+      "location": "Local School",
+      "involved_parties_count": 1,
+      "case_type": "Vandalism",
+      "amount": 150,
+      "involved_parties": [
+        {
+          "name": "School Principal",
+          "role": "Victim"
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "title": "Fraudulent Credit Card Charges",
+      "description": "A woman reported fraudulent charges on her credit card.",
+      "date": "2023-03-01",
+      "time": "10:00",
+      "location": "Downtown",
+      "involved_parties_count": 1,
+      "case_type": "Fraud",
+      "amount": 1000,
+      "involved_parties": [
+        {
+          "name": "Woman",
+          "role": "Victim"
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "title": "Arson at Warehouse",
+      "description": "A fire was intentionally set at a warehouse, resulting in significant damage.",
+      "date": "2023-01-01",
+      "time": "01:00",
+      "location": "Industrial Area",
+      "involved_parties_count": 2,
+      "case_type": "Arson",
+      "amount": 20000,
+      "involved_parties": [
+        {
+          "name": "Warehouse Owner",
+          "role": "Victim"
+        },
+        {
+          "name": "Unknown Arsonist",
+          "role": "Suspect"
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "title": "Illegal Dumping in Forest",
+      "description": "Waste was illegally dumped in a forest area.",
+      "date": "2023-02-15",
+      "time": "15:30",
+      "location": "Forest",
+      "involved_parties_count": 1,
+      "case_type": "Environmental Crime",
+      "amount": 500,
+      "involved_parties": [
+        {
+          "name": "Forest Ranger",
+          "role": "Witness"
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "title": "Stolen Artifacts from Museum",
+      "description": "Several valuable artifacts were stolen from a museum.",
+      "date": "2023-07-01",
+      "time": "03:00",
+      "location": "City Museum",
+      "involved_parties_count": 2,
+      "case_type": "Theft",
+      "amount": 100000,
+      "involved_parties": [
+        {
+          "name": "Museum Curator",
+          "role": "Victim"
+        },
+        {
+          "name": "Unknown Thief",
+          "role": "Suspect"
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "title": "Break-in at Office Building",
+      "description": "A break-in occurred at an office building, resulting in the theft of computers.",
+      "date": "2023-08-01",
+      "time": "02:00",
+      "location": "Office Building",
+      "involved_parties_count": 2,
+      "case_type": "Burglary",
+      "amount": 5000,
+      "involved_parties": [
+        {
+          "name": "Building Security",
+          "role": "Security"
+        },
+        {
+          "name": "Unknown Burglar",
+          "role": "Suspect"
+        }
+      ]
+    },
+    {
+      "id": 14,
+      "title": "Assault at Nightclub",
+      "description": "A fight broke out at a nightclub, resulting in injuries.",
+      "date": "2023-06-15",
+      "time": "23:30",
+      "location": "Nightclub",
+      "involved_parties_count": 3,
+      "case_type": "Assault",
+      "amount": 750,
+      "involved_parties": [
+        {
+          "name": "Bouncer",
+          "role": "Security"
+        },
+        {
+          "name": "Club Patron 1",
+          "role": "Victim"
+        },
+        {
+          "name": "Club Patron 2",
+          "role": "Assailant"
+        }
+      ]
+    },
+    {
+      "id": 15,
+      "title": "Illegal Fishing in Protected Area",
+      "description": "Illegal fishing was reported in a protected marine area.",
+      "date": "2023-05-01",
+      "time": "14:00",
+      "location": "Marine Protected Area",
+      "involved_parties_count": 1,
+      "case_type": "Environmental Crime",
+      "amount": 750,
+      "involved_parties": [
+        {
+          "name": "Marine Biologist",
+          "role": "Witness"
+        }
+      ]
+    }
+  ]
+}
